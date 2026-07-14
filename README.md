@@ -1,5 +1,7 @@
 # Katas
 
+See katas from here https://kata-log.rocks
+
 This repository is a small workspace for practicing coding katas in C#.
 
 It gives you two things:
